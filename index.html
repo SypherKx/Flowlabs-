@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FlowLabs - Automation Agency Operating System</title>
+  <meta name="description"
+    content="The all-in-one platform for managing automation agencies. Handle leads, clients, and workflows from one powerful dashboard.">
+  <meta property="og:title" content="FlowLabs - Automation Agency OS">
+  <meta property="og:description"
+    content="Manage your automation agency with AI-powered prospecting, client fulfillment, and workflow automation.">
+  <meta property="og:type" content="website">
+  <!-- Razorpay Checkout SDK -->
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* Inline styles moved to index.css */
+  </style>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            void: '#09090b',
+            glass: 'rgba(255, 255, 255, 0.05)',
+          },
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <link rel="stylesheet" href="/index.css">
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+
+</html>

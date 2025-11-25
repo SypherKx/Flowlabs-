@@ -1,0 +1,104 @@
+Starting Debug Test
+Navigated to login
+Login form visible, logging in...
+Clicked submit
+Error: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+Stack: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+    at C:\Users\itska\OneDrive\Desktop\FlowLabs\tests\debug.spec.ts:18:24
+Starting Debug Test
+Navigated to login
+Login form visible, logging in...
+Clicked submit
+Error: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+Stack: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+    at C:\Users\itska\OneDrive\Desktop\FlowLabs\tests\debug.spec.ts:18:24
+Starting Debug Test
+Starting Debug Test
+Starting Debug Test
+Navigated to login
+Login form visible, logging in...
+Clicked submit
+Navigated to login
+Navigated to login
+Login form visible, logging in...
+Login form visible, logging in...
+Clicked submit
+Clicked submit
+Error: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+Stack: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+    at C:\Users\itska\OneDrive\Desktop\FlowLabs\tests\debug.spec.ts:18:24
+Error: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+Error: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+Stack: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+    at C:\Users\itska\OneDrive\Desktop\FlowLabs\tests\debug.spec.ts:18:24
+Stack: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+    at C:\Users\itska\OneDrive\Desktop\FlowLabs\tests\debug.spec.ts:18:24
+Starting Debug Test
+Starting Debug Test
+Starting Debug Test
+Navigated to login
+Login form visible, logging in...
+Navigated to login
+Clicked submit
+Login form visible, logging in...
+Navigated to login
+Login form visible, logging in...
+Clicked submit
+Clicked submit
+Error: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+Stack: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+    at C:\Users\itska\OneDrive\Desktop\FlowLabs\tests\debug.spec.ts:18:24
+Error: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+Stack: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+    at C:\Users\itska\OneDrive\Desktop\FlowLabs\tests\debug.spec.ts:18:24
+Error: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+Stack: page.waitForURL: Timeout 20000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/dashboard" until "load"
+============================================================
+    at C:\Users\itska\OneDrive\Desktop\FlowLabs\tests\debug.spec.ts:18:24

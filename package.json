@@ -1,0 +1,35 @@
+{
+  "name": "flowlabs",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright show-report"
+  },
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "@supabase/supabase-js": "^2.84.0",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.344.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.6.0",
+    "react-router-dom": "^6.22.0",
+    "recharts": "^2.12.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "dotenv": "^17.2.3",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

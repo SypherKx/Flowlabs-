@@ -1,0 +1,51 @@
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+Listing tests:
+  [Desktop Chrome] › flowlabs.spec.ts:16:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - Navbar Visibility
+  [Desktop Chrome] › flowlabs.spec.ts:32:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - Hero Section
+  [Desktop Chrome] › flowlabs.spec.ts:46:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - CTA Button Clickable
+  [Desktop Chrome] › flowlabs.spec.ts:60:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - Footer & Legal Links
+  [Desktop Chrome] › flowlabs.spec.ts:77:5 › FlowLabs - Authentication Flow › Login Page - Form Elements Visible
+  [Desktop Chrome] › flowlabs.spec.ts:97:5 › FlowLabs - Authentication Flow › Login Flow - Successful Authentication
+  [Desktop Chrome] › flowlabs.spec.ts:116:5 › FlowLabs - Dashboard Responsiveness › Dashboard - KPI Cards Layout
+  [Desktop Chrome] › flowlabs.spec.ts:165:5 › FlowLabs - Dashboard Responsiveness › Dashboard - No Horizontal Scroll
+  [Desktop Chrome] › flowlabs.spec.ts:175:5 › FlowLabs - Dashboard Responsiveness › Dashboard - Sidebar Behavior
+  [Desktop Chrome] › flowlabs.spec.ts:205:5 › FlowLabs - Pricing & Payment › Pricing - Upgrade Button Triggers Razorpay
+  [Desktop Chrome] › flowlabs.spec.ts:222:5 › FlowLabs - Settings Page › Settings Page - Sections Visible
+  [Desktop Chrome] › flowlabs.spec.ts:253:5 › FlowLabs - Settings Page › Settings Page - Sign Out Button
+  [Desktop Chrome] › flowlabs.spec.ts:274:5 › FlowLabs - Legal Pages › Privacy Policy - Page Loads
+  [Desktop Chrome] › flowlabs.spec.ts:282:5 › FlowLabs - Legal Pages › Terms of Service - Page Loads
+  [Desktop Chrome] › flowlabs.spec.ts:293:5 › FlowLabs - Performance Checks › Page Load Time - Dashboard
+  [Desktop Chrome] › flowlabs.spec.ts:316:5 › FlowLabs - Performance Checks › No Console Errors
+  [Tablet (iPad)] › flowlabs.spec.ts:16:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - Navbar Visibility
+  [Tablet (iPad)] › flowlabs.spec.ts:32:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - Hero Section
+  [Tablet (iPad)] › flowlabs.spec.ts:46:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - CTA Button Clickable
+  [Tablet (iPad)] › flowlabs.spec.ts:60:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - Footer & Legal Links
+  [Tablet (iPad)] › flowlabs.spec.ts:77:5 › FlowLabs - Authentication Flow › Login Page - Form Elements Visible
+  [Tablet (iPad)] › flowlabs.spec.ts:97:5 › FlowLabs - Authentication Flow › Login Flow - Successful Authentication
+  [Tablet (iPad)] › flowlabs.spec.ts:116:5 › FlowLabs - Dashboard Responsiveness › Dashboard - KPI Cards Layout
+  [Tablet (iPad)] › flowlabs.spec.ts:165:5 › FlowLabs - Dashboard Responsiveness › Dashboard - No Horizontal Scroll
+  [Tablet (iPad)] › flowlabs.spec.ts:175:5 › FlowLabs - Dashboard Responsiveness › Dashboard - Sidebar Behavior
+  [Tablet (iPad)] › flowlabs.spec.ts:205:5 › FlowLabs - Pricing & Payment › Pricing - Upgrade Button Triggers Razorpay
+  [Tablet (iPad)] › flowlabs.spec.ts:222:5 › FlowLabs - Settings Page › Settings Page - Sections Visible
+  [Tablet (iPad)] › flowlabs.spec.ts:253:5 › FlowLabs - Settings Page › Settings Page - Sign Out Button
+  [Tablet (iPad)] › flowlabs.spec.ts:274:5 › FlowLabs - Legal Pages › Privacy Policy - Page Loads
+  [Tablet (iPad)] › flowlabs.spec.ts:282:5 › FlowLabs - Legal Pages › Terms of Service - Page Loads
+  [Tablet (iPad)] › flowlabs.spec.ts:293:5 › FlowLabs - Performance Checks › Page Load Time - Dashboard
+  [Tablet (iPad)] › flowlabs.spec.ts:316:5 › FlowLabs - Performance Checks › No Console Errors
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:16:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - Navbar Visibility
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:32:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - Hero Section
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:46:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - CTA Button Clickable
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:60:5 › FlowLabs - Layout & Responsiveness Tests › Landing Page - Footer & Legal Links
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:77:5 › FlowLabs - Authentication Flow › Login Page - Form Elements Visible
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:97:5 › FlowLabs - Authentication Flow › Login Flow - Successful Authentication
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:116:5 › FlowLabs - Dashboard Responsiveness › Dashboard - KPI Cards Layout
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:165:5 › FlowLabs - Dashboard Responsiveness › Dashboard - No Horizontal Scroll
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:175:5 › FlowLabs - Dashboard Responsiveness › Dashboard - Sidebar Behavior
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:205:5 › FlowLabs - Pricing & Payment › Pricing - Upgrade Button Triggers Razorpay
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:222:5 › FlowLabs - Settings Page › Settings Page - Sections Visible
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:253:5 › FlowLabs - Settings Page › Settings Page - Sign Out Button
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:274:5 › FlowLabs - Legal Pages › Privacy Policy - Page Loads
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:282:5 › FlowLabs - Legal Pages › Terms of Service - Page Loads
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:293:5 › FlowLabs - Performance Checks › Page Load Time - Dashboard
+  [Mobile (iPhone 13)] › flowlabs.spec.ts:316:5 › FlowLabs - Performance Checks › No Console Errors
+Total: 48 tests in 1 file

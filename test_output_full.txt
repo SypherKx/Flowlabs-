@@ -1,0 +1,5 @@
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+Error: Project(s) """ not found. Available projects: "Desktop Chrome", "Tablet (iPad)", "Mobile (iPhone 13)"
+    at filterProjects (C:\Users\itska\OneDrive\Desktop\FlowLabs\node_modules\playwright\lib\runner\projectUtils.js:80:11)
+    at runTests (C:\Users\itska\OneDrive\Desktop\FlowLabs\node_modules\playwright\lib\program.js:217:42)
+    at i.<anonymous> (C:\Users\itska\OneDrive\Desktop\FlowLabs\node_modules\playwright\lib\program.js:71:7)

@@ -95,4 +95,4 @@ To unlock the full power of FlowLabs, configure the following in the **Settings*
 
 ## 👨‍💻 Built By
 
-Built with ❤️ by **SypherKx** and **Antigravity AI**
+Built with ❤️ by **Karan Pratap Singh** and **Antigravity AI**

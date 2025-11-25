@@ -20,9 +20,14 @@ export const supabase = createClient(
 );
 
 // Test the connection immediately
-supabase.from('leads').select('count').limit(1)
-  .then(() => console.log('✅ Supabase connection successful!'))
-  .catch((err) => console.error('❌ Supabase connection failed:', err.message));
+(async () => {
+  try {
+    await supabase.from('leads').select('count').limit(1);
+    console.log('✅ Supabase connection successful!');
+  } catch (err: any) {
+    console.error('❌ Supabase connection failed:', err.message);
+  }
+})();
 
 // Auth functions
 export const auth = {

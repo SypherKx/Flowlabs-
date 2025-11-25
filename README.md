@@ -93,6 +93,6 @@ To unlock the full power of AutoFlow, configure the following in the **Settings*
 
 ---
 
-## 📄 License
+## 👨‍💻 Built By
 
-MIT License. Built with ❤️ for the Automation Community.
+Built with ❤️ by **SypherKx** and **Antigravity AI**
